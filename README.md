@@ -2,6 +2,8 @@
 
 A feature-rich, two-player **Tic-Tac-Toe** game built in **C++** using **Object-Oriented Programming** — my **Object-Oriented Programming (OOP) project**.
 
+> 🔗 **Note:** This is the **complete single-file** version. The same game organized into **separate class files (modular)** lives here: **[tic-tac-toe-ai-cpp](https://github.com/Yasir897/tic-tac-toe-ai-cpp)**.
+
 ## 🎮 Gameplay
 Two players enter their names, pick **X** or **O**, and take turns marking a **3×3 grid** by choosing a number from **1–9**. First to line up three in a row — horizontal, vertical, or diagonal — wins; a full board with no line is a draw.
 
