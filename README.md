@@ -1,6 +1,6 @@
 # ⭕ Tic-Tac-Toe (C++ OOP)
 
-A classic **Tic-Tac-Toe** game built in **C++** using Object-Oriented Programming — my **Programming Fundamentals semester project**.
+A classic **Tic-Tac-Toe** game built in **C++** using Object-Oriented Programming — my **Object-Oriented Programming (OOP) project**.
 
 ## 🧩 Features
 - Two-player Tic-Tac-Toe on a 3×3 board
@@ -18,8 +18,5 @@ g++ tic_tac_toe.cpp -o tictactoe
 ./tictactoe
 ```
 
-## 📄 Documentation
-`Project_Report.docx` — the original semester project report.
-
 ---
-🎓 University project — Programming Fundamentals.
+🎓 University project — Object-Oriented Programming (OOP).
